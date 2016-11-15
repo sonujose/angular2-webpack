@@ -9,7 +9,7 @@ import {ExperimentsService} from './common/experiments.service';
 @Component({
   selector: 'app',
   template: require('./app.component.html'),
-  styles: [require('./app.component.css')],
+  styles: [require('./app.component.scss')],
   directives: [ ROUTER_DIRECTIVES ],
   providers: [StateService, ExperimentsService],
 })

@@ -26,6 +26,7 @@
   "devDependencies": {
     "awesome-typescript-loader": "^0.17.0",
     "core-js": "^2.4.0",
+    "css-loader": "^0.25.0",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
     "karma-coverage": "^1.0.0",
@@ -34,9 +35,12 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.26",
     "karma-webpack": "^1.7.0",
+    "node-sass": "^3.12.5",
     "phantomjs-prebuilt": "^2.1.7",
     "raw-loader": "^0.5.1",
+    "sass-loader": "^4.0.2",
     "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
     "typescript": "^1.8.10",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
